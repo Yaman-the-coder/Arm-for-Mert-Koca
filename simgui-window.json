@@ -1,0 +1,120 @@
+{
+  "Docking": {
+    "Data": []
+  },
+  "MainWindow": {
+    "GLOBAL": {
+      "font": "PixelParty",
+      "fps": "144",
+      "height": "1024",
+      "maximized": "0",
+      "style": "3",
+      "userScale": "1",
+      "width": "1280",
+      "xpos": "0",
+      "ypos": "29"
+    }
+  },
+  "Window": {
+    "###/SmartDashboard/Arm Sim": {
+      "Collapsed": "0",
+      "Pos": "524,625",
+      "Size": "241,200"
+    },
+    "###/SmartDashboard/ArmForMertKoca": {
+      "Collapsed": "1",
+      "Pos": "512,812",
+      "Size": "300,210"
+    },
+    "###ClockTiming": {
+      "Collapsed": "0",
+      "Pos": "20,200",
+      "Size": "170,150"
+    },
+    "###FMS": {
+      "Collapsed": "0",
+      "Pos": "65,725",
+      "Size": "183,198"
+    },
+    "###FMS_Module": {
+      "Collapsed": "1",
+      "Pos": "10,690",
+      "Size": "200,220"
+    },
+    "###JoystickPanel": {
+      "Collapsed": "0",
+      "Pos": "320,590",
+      "Size": "980,90"
+    },
+    "###Joysticks": {
+      "Collapsed": "0",
+      "Pos": "212,485",
+      "Size": "796,77"
+    },
+    "###NetTablesInfo": {
+      "Collapsed": "0",
+      "Pos": "310,170",
+      "Size": "950,190"
+    },
+    "###NetworkTables": {
+      "Collapsed": "0",
+      "Pos": "250,277",
+      "Size": "750,185"
+    },
+    "###NetworkTables Info": {
+      "Collapsed": "0",
+      "Pos": "250,130",
+      "Size": "750,145"
+    },
+    "###NetworkTablesPanel": {
+      "Collapsed": "1",
+      "Pos": "770,300",
+      "Size": "940,240"
+    },
+    "###Other Devices": {
+      "Collapsed": "0",
+      "Pos": "1025,20",
+      "Size": "250,695"
+    },
+    "###OtherGadgets": {
+      "Collapsed": "1",
+      "Pos": "1300,30",
+      "Size": "320,880"
+    },
+    "###SysJoysticks": {
+      "Collapsed": "0",
+      "Pos": "8,450",
+      "Size": "240,260"
+    },
+    "###System Joysticks": {
+      "Collapsed": "0",
+      "Pos": "5,350",
+      "Size": "212,236"
+    },
+    "###Timing": {
+      "Collapsed": "0",
+      "Pos": "5,150",
+      "Size": "144,125"
+    },
+    "Debug##AltView": {
+      "Collapsed": "1",
+      "Pos": "80,80",
+      "Size": "420,420"
+    },
+    "Debug##Default": {
+      "Collapsed": "0",
+      "Pos": "60,60",
+      "Size": "400,400"
+    },
+    "Robot State": {
+      "Collapsed": "0",
+      "Pos": "5,20",
+      "Size": "113,122"
+    },
+    "RobotStatus": {
+      "Collapsed": "0",
+      "Pos": "15,30",
+      "Size": "120,140"
+    }
+  }
+}
